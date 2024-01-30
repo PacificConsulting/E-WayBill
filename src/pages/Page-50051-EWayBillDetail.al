@@ -42,7 +42,7 @@ page 50051 "E-Way Bill Detail"
             field("Transportation Mode"; rec."Transportation Mode")
             {
                 ApplicationArea = all;
-                //Editable = Vedit;
+                ////Editable = Vedit;
                 Editable = false;
             }
             field("Transport Distance"; rec."Transport Distance")
